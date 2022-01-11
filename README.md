@@ -6,7 +6,7 @@ Contact: ```clemence.prevost@univ-lille.fr```
 This MATLAB software reproduces the results from the following article:
 ```
 @unpublished{prevost:hal-03504402,
-  TITLE = {{On the efficiency of blind and non-blind estimation for coupled LL1 tensor models using the randomly-constrained Cram{\'e}r-Rao bound}},
+  TITLE = {{On the efficiency of blind and non-blind estimation for coupled LL1 tensor models using the randomly-constrained Cramér-Rao bound}},
   AUTHOR = {Pr{\'e}vost, Cl{\'e}mence and Usevich, Konstantin and Chaumette, Eric and Brie, David and Comon, Pierre},
   URL = {https://hal.archives-ouvertes.fr/hal-03504402},
   NOTE = {working paper or preprint},
